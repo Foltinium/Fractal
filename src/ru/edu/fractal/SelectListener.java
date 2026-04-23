@@ -1,4 +1,4 @@
-package ru.gr0946x.ui;
+package ru.edu.fractal;
 
 import java.awt.*;
 
